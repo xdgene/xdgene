@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Bioinformatics tool for Windows Desktop.
+
+If you have any ideas or suggestions regarding the tool's functionality, please leave a message to contact me.
+
 <!--
 **xdgene/xdgene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
